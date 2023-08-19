@@ -1,5 +1,0 @@
-{{Bearcin_Sweety}}
-Name: Ritesh
-Skills: HTML, CSS, JS, Next.js
-Email: imsweety33@gmail.com
-{{/Bearcin_Sweety}}
